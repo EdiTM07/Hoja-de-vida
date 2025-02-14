@@ -1,0 +1,26 @@
+body{
+    font-family: "Lato";
+    border: 2px solid ;
+    padding: 40px;
+    width: 800px;;
+}
+div{
+    position: relative;
+    left: 30px;
+}
+hr{
+    border: 1px solid;
+}
+h1{
+    position: relative;
+    left: 30px;
+}
+h3{
+    color: #05d04f;
+}
+h4{
+    color: #1f6dff;
+}
+ul li{
+    list-style: none;
+}
